@@ -1,0 +1,26 @@
+.root {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: 3rem;
+    padding: 1rem;
+    background-color: gray;
+}
+
+.container {
+    height: 100%;
+}
+
+.icon {
+    font-size: 2.5rem  !important;
+}
+
+.icon:hover {
+    cursor: pointer;
+    
+    color: white;
+}
+
+.title {
+    
+    font-size: 2rem;
+}
